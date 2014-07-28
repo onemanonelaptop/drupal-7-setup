@@ -1,0 +1,73 @@
+ Package           Name                                          Version        
+ Administration    Administration menu (admin_menu)              7.x-3.0-rc4    
+ Administration    Administration menu Toolbar style             7.x-3.0-rc4    
+                   (admin_menu_toolbar)                                         
+ Chaos tool suite  Chaos tools (ctools)                          7.x-1.4        
+ Chaos tool suite  Page manager (page_manager)                   7.x-1.4        
+ Chaos tool suite  Post Panel (panel_post)                                      
+ Chaos tool suite  quote Panel (panel_quote)                                    
+ Context           Context (context)                             7.x-3.2        
+ Context           Context UI (context_ui)                       7.x-3.2        
+ Date/Time         Date (date)                                   7.x-2.7        
+ Date/Time         Date API (date_api)                           7.x-2.7        
+ Date/Time         Date Popup (date_popup)                       7.x-2.7        
+ Date/Time         Date Views (date_views)                       7.x-2.7        
+ Development       Devel (devel)                                 7.x-1.5        
+ Development       Devel generate (devel_generate)               7.x-1.5        
+ Entityforms       Entityform Anonymous (entityform_anonymous)   7.x-2.0-beta4  
+ Entityforms       Entityforms (entityform)                      7.x-2.0-beta4  
+ Entityforms       Entityforms Notifications                     7.x-2.0-beta4  
+                   (entityform_notifications)                                   
+ Features          Contact Form (contact_form)                                  
+ Features          Content Type Post (content_type_post)                        
+ Features          Content Type Slideshow (content_type_slide)                  
+ Features          Features (features)                           7.x-1.0        
+ Features          WYSIWYG Profile (feature_wysiwyg_editor)                     
+ Fields            Address Field (addressfield)                  7.x-1.0-beta3  
+ Fields            Address Field Example (addressfield_example)  7.x-1.0-beta3  
+ Fields            Email (email)                                 7.x-1.3        
+ Fields            Entity Reference (entityreference)            7.x-1.1        
+ Fields            Field Group (field_group)                     7.x-1.4        
+ Fields            Link (link)                                   7.x-1.2        
+ Fields            Telephone (telephone)                         7.x-1.0-alpha1 
+ Filters           GeSHi Filter (geshifilter)                    7.x-1.2        
+ Media             IMCE (imce)                                   7.x-1.9        
+ Media             Video.js (videojs)                            7.x-2.3        
+ OAuth             OAuth (oauth_common)                          7.x-3.2        
+ Other             Better Formats (better_formats)               7.x-1.0-beta1  
+ Other             Blockify (blockify)                           7.x-1.2        
+ Other             Entity API (c)                           7.x-1.5
+ Other             Entity Rules (entity_rules)                   7.x-1.0-alpha4 
+ Other             Entity to Text (entity2text)                  7.x-1.0-alpha2 
+ Other             Entity tokens (entity_token)                  7.x-1.5        
+ Other             Entity view modes (entity_view_mode)          7.x-1.0-rc1    
+ Other             Gravatar (gravatar)                           7.x-1.1        
+ Other             Image crop (imagefield_crop)                  7.x-1.1        
+ Other             Libraries (libraries)                         7.x-2.2        
+ Other             Library Pack (library_pack)                   7.x-1.x-dev    
+ Other             LoginToboggan (logintoboggan)                 7.x-1.4        
+ Other             Menu Block (menu_block)                       7.x-2.4        
+ Other             Pathauto (pathauto)                           7.x-1.2        
+ Other             Session API (session_api)                     7.x-1.0-rc1    
+ Other             Token (token)                                 7.x-1.5        
+ Other             Twitter (twitter)                             7.x-5.8        
+ Other             Twitter Post (twitter_post)                   7.x-5.8        
+ Other             Weight (weight)                               7.x-2.3        
+ Panels            Panelizer (panelizer)                         7.x-3.1        
+ Panels            Panels (panels)                               7.x-3.3        
+ Rules             Rules (rules)                                 7.x-2.7        
+ Services          Services (services)                           7.x-3.7        
+ Services -        REST Server (rest_server)                     7.x-3.7        
+ servers                                                                        
+ Taxonomy menu     Taxonomy menu (taxonomy_menu)                 7.x-1.5        
+ Taxonomy menu     Taxonomy Menu Trails (taxonomy_menu_trails)   7.x-2.5        
+ Theme Tools       Omega Tools (omega_tools)                     7.x-3.0-rc4    
+ User interface    IMCE Wysiwyg API bridge (imce_wysiwyg)        7.x-1.0        
+ User interface    jQuery Update (jquery_update)                 7.x-2.4        
+ User interface    Wysiwyg (wysiwyg)                             7.x-2.2+46-dev 
+ Views             Views (views)                                 7.x-3.8        
+ Views             Views Slideshow (views_slideshow)             7.x-3.1        
+ Views             Views Slideshow: Cycle                        7.x-3.1        
+                   (views_slideshow_cycle)                                      
+ Views             Views UI (views_ui)                           7.x-3.8        
+
